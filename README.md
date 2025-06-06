@@ -1,3 +1,5 @@
+Edited by Adarsh 
+
 # Bunch Up ReactJS based Web Application to list and host meetups and events
 
 ### This is a ReactJS based web application
